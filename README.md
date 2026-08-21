@@ -53,7 +53,7 @@ The installer includes the application and its private Python runtime, creates c
 For developers or contributors:
 
 ```powershell
-git clone <repository-url>
+git clone https://github.com/PachVsus/Outfit-Generator-Application
 cd "Outfit Generator Application"
 python -m pip install -r requirements.txt
 python app.py
