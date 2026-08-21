@@ -9,7 +9,7 @@ Organize your clothes, discover new combinations, and build outfits that match y
 [![Python](https://img.shields.io/badge/Python-3.10%2B-3776AB?logo=python&logoColor=white)](https://www.python.org/)
 [![Tkinter](https://img.shields.io/badge/GUI-Tkinter-2C5E8D)](https://docs.python.org/3/library/tkinter.html)
 [![Platform](https://img.shields.io/badge/Platform-Windows-0078D4?logo=windows&logoColor=white)](#installation)
-[![License](https://img.shields.io/badge/License-Choose%20a%20license-lightgrey)](#license)
+[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](#license)
 
 **No accounts · No cloud · No terminal required for installed users**
 
@@ -53,7 +53,7 @@ The installer includes the application and its private Python runtime, creates c
 For developers or contributors:
 
 ```powershell
-git clone <your-repository-url>
+git clone <repository-url>
 cd "Outfit Generator Application"
 python -m pip install -r requirements.txt
 python app.py
