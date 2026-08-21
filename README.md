@@ -122,7 +122,7 @@ Please keep personal wardrobe images and generated JSON data out of commits.
 
 ## 📄 License
 
-No license has been selected yet. Add a `LICENSE` file before inviting public reuse or contributions. For an open-source release, the MIT License is a simple and popular option.
+This project is licensed under the [MIT License](LICENSE). You are free to use, modify, and distribute it under the license terms.
 
 ---
 
